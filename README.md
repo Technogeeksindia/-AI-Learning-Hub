@@ -2,19 +2,19 @@
 *Your comprehensive guide to Artificial Intelligence - from fundamentals to cutting-edge research*
 
 ## 📋 Table of Contents
-- [Getting Started](#getting-started)
-- [Fundamentals](#fundamentals)
-- [Machine Learning](#machine-learning)
-- [Deep Learning](#deep-learning)
-- [Natural Language Processing](#natural-language-processing)
-- [Computer Vision](#computer-vision)
-- [Reinforcement Learning](#reinforcement-learning)
-- [AI Tools & Frameworks](#ai-tools--frameworks)
-- [Specialized Topics](#specialized-topics)
-- [Practical Projects](#practical-projects)
-- [Research & Papers](#research--papers)
-- [Courses & Tutorials](#courses--tutorials)
-- [Community & Resources](#community--resources)
+- [Getting Started](#-getting-started)
+- [Fundamentals](#-fundamentals)
+- [Machine Learning](#-machine-learning)
+- [Deep Learning](#-deep-learning)
+- [Natural Language Processing](#️-natural-language-processing)
+- [Computer Vision](#-computer-vision)
+- [Reinforcement Learning](#-reinforcement-learning)
+- [AI Tools & Frameworks](#-ai-tools--frameworks)
+- [Specialized Topics](#-specialized-topics)
+- [Practical Projects](#-practical-projects)
+- [Research & Papers](#-research--papers)
+- [Courses & Tutorials](#-courses--tutorials)
+- [Community & Resources](#-community--resources)
 
 ---
 
